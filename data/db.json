@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Best Guys",
+      "body": "The best guys are those who exemplify integrity, kindness, and strength in character. They are the ones who not only strive for personal success but also lift others up along the way. These individuals possess a rare blend of humility and confidence, knowing when to lead and when to listen. They treat everyone with respect and empathy, understanding that every person has their own journey and struggles. The best guys are dependable and trustworthy, always there to lend a helping hand or offer words of encouragement. They inspire others through their actions and embody the values of honesty, compassion, and perseverance. In a world often filled with uncertainty, they stand as beacons of light, guiding others towards a brighter tomorrow.",
+      "author": "mario phd",
+      "id": "1"
+    },
+    {
+      "title": "Worst Guys",
+      "body": "The worst guys are those who embody selfishness, deceit, and cruelty. They manipulate and exploit others for their own gain, showing little regard for the well-being of those around them. These individuals thrive on power and control, often resorting to lies and manipulation to achieve their goals. They lack empathy and remorse, causing harm without a second thought. The worst guys prioritize their own desires above all else, disregarding the consequences of their actions. They sow discord and division, spreading negativity wherever they go. In a world striving for harmony and compassion, they stand as reminders of the darkness that exists within humanity.",
+      "author": "gasmas Phd",
+      "id": "2"
+    }
+  ]
+}
